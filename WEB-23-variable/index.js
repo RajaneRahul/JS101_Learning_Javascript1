@@ -1,0 +1,21 @@
+console.log("# REPORT CARD #");
+console.log("");
+let name = "Rahul Rajane";
+let school = "KD,Dehli";
+let section = "B";
+let grade = "A";
+let rollno = "0778BE";
+let maths = 92;
+let science = 90;
+let english = 85;
+console.log("name-",name);
+console.log("school-",school);
+console.log("section-",section);
+console.log("grade-",grade);
+console.log("rollno-",rollno);
+console.log("");
+console.log("...Top 3 scored subject...");
+
+console.log("maths-",maths);
+console.log("science-",science);
+console.log("english-",english);
