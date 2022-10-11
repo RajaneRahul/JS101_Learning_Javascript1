@@ -1,0 +1,20 @@
+let day = "Mon";
+switch(day){
+  case "Sun": console.log("Sunday");
+    break;
+   case "Mon": console.log("Manday"); 
+    break;
+    case "Tue": console.log("Tuesday"); 
+    break;
+    case "Wed": console.log("Wednesday"); 
+    break;
+    case "Thursday": console.log("Thursday"); 
+    break;
+    case "Friday": console.log("Friday"); 
+    break;
+    case "Saterday": console.log("Saterday"); 
+    
+    
+}
+
+
